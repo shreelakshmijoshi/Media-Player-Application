@@ -1,0 +1,327 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Play On</string>
+
+    <string name="happy_by_pharrell_williams_lyrics">
+       " Let me tell you now \n
+Here we go \n\n
+It might seem crazy what I'm about to say \n
+Sunshine she's here, you can take a break \n
+I'm a hot air balloon that can go to space \n
+With the air, like I don't care baby by the way (come on)\n\n
+Because I'm happy\n
+Clap along if you feel like a room without a roof\n
+Because I'm happy\n
+Clap along if you feel like happiness is the truth\n
+Because I'm happy\n
+Clap along if you know what happiness is to you\n
+Because I'm happy\n
+Clap along if you feel like that's what you wanna do (hey)\n\n
+Here come bad news talking this and that (yeah)\n
+Well, give me all you got, and don't hold it back (yeah)\n
+Well, I should probably warn you, you'll be just fine (yeah)\n
+No offense to you, don't waste your time\n
+(Here's why)\n\n
+Because I'm happy\n
+Clap along if you feel like a room without a roof\n
+Because I'm happy\n
+Clap along if you feel like happiness is the truth\n
+Because I'm happy\n
+Clap along if you know what happiness is to you\n
+Because I'm happy\n
+Clap along if you feel like that's what you wanna do\n\n
+Here go\n
+(Happy)\n
+Bring me down\n
+Can't nothing (happy)\n
+Bring me down\n
+My level's too high (happy)\n
+To bring me down\n\n
+To bring me\n
+(Let me tell you now)\n
+Bring me down\n
+Can't nothing\n
+Bring me down\n
+His level's too high\n
+To bring me down\n
+To bring me down\n\n
+Because I'm happy\n
+Clap along if you feel like a room without a roof\n
+Because I'm happy\n
+Clap along if you feel like happiness is the truth\n
+Because I'm happy\n
+Clap along if you know what happiness is to you\n
+Because I'm happy\n
+Clap along if you feel like that's what you wanna do\n\n
+Because I'm happy\n
+Clap along if you feel like a room without a roof\n
+Because I'm happy\n
+Clap along if you feel like happiness is the truth\n
+Because I'm happy\n
+Clap along if you know what happiness is to you\n
+Because I'm happy\n
+Clap along if you feel like that's what you wanna do"\n\n
+    </string>
+
+    <string name="counting_stars_by_onerepublic_lyrics">
+        "Lately, I've been, I've been losing sleep \n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be counting stars\n
+Yeah, we'll be counting stars\n \n
+I see this life, like a swinging vine\n
+Swing my heart across the line\n
+And in my face is flashing signs\n
+Seek it out and ye shall find\n \n
+Old, but I'm not that old\n
+Young, but I'm not that bold\n
+And I don't think the world is sold\n
+On just doing what we're told\n \n
+I feel something so right\n
+Doing the wrong thing\n
+And I feel something so wrong\n
+Doing the right thing\n
+I couldn't lie, couldn't lie, couldn't lie\n
+Everything that kills me makes me feel alive\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be counting stars\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be, we'll be counting stars\n
+Yeah\n \n
+I feel your love and I feel it burn\n
+Down this river, every turn\n
+Hope is our four-letter word\n
+Make that money, watch it burn\n \n
+Old, but I'm not that old\n
+Young, but I'm not that bold\n
+And I don't think the world is sold\n
+On just doing what we're told\n \n
+And I feel something so wrong\n
+Doing the right thing\n
+I couldn't lie, couldn't lie, couldn't lie\n
+Everything that drowns me makes me wanna fly\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be counting stars\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be, we'll be counting stars\n \n
+Oh, take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Everything that kills me\n
+Makes me feel alive\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be counting stars\n \n
+Lately, I've been, I've been losing sleep\n
+Dreaming about the things that we could be\n
+But baby, I've been, I've been praying hard\n
+Said no more counting dollars\n
+We'll be, we'll be counting stars\n \n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned\n
+Take that money, watch it burn\n
+Sink in the river the lessons I've learned"\n \n
+    </string>
+
+    <string name="silence_by_khalid_lyrics">
+        "Yeah, I'd rather be a lover than a fighter (fighter)\n
+'Cause all my life, I've been fighting\n
+Never felt a feeling of comfort, oh\n
+And all this time, I've been hiding\n
+And I never had someone to call my own, oh nah\n
+I'm so used to sharing\n
+Love only left me alone\n
+But I'm at one with the silence\n\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been quiet for too long\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been silent for too long\n\n
+I've been quiet for too long\n
+I've been quiet for too long\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been quiet for too long\n\n
+I'm in need of a savior (savior), but I'm not asking for favors\n
+My whole life, I've felt like a burden\n
+I think too much, and I hate it\n
+I'm so used to being in the wrong, I'm tired of caring\n
+Loving never gave me a home, so I'll sit here in the silence\n\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been quiet for too long\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been silent for too long\n\n
+I've been quiet for too long\n
+I've been quiet for too long\n
+I found peace in your violence\n
+Can't tell me there's no point in trying\n
+I'm at one, and I've been quiet for too long\n\n"
+    </string>
+
+    <string name="hey_brother_avicii_lyrics">
+
+        "Hey brother\n
+There's an endless road to re-discover\n
+Hey sister\n
+Know the water's sweet but blood is thicker\n
+Oh, if the sky comes falling down, for you\n
+There's nothing in this world I wouldn't do\n\n
+Hey brother\n
+Do you still believe in one another?\n
+Hey sister\n
+Do you still believe in love I wonder?\n
+Oh, if the sky comes falling down, for you\n
+There's nothing in this world I wouldn't do\n\n
+What if I'm far from home?\n
+Oh, brother I will hear you call\n
+What if I lose it all?\n
+Oh, sister I will help you out\n
+Oh, if the sky comes falling down, for you\n
+There's nothing in this world I wouldn't do\n\n
+Hey brother\n
+There's an endless road to re-discover\n
+Hey sister\n
+Do you still believe in love I wonder?\n
+Oh, if the sky comes falling down, for you\n
+There's nothing in this world I wouldn't do\n\n
+What if I'm far from home?\n
+Oh, brother I will hear your call\n
+What if I lose it all?\n
+Oh, sister I will help you out\n
+Oh, if the sky comes falling down, for you\n
+There's nothing in this world I wouldn't do\n\n"
+
+    </string>
+    <string name="happier_by_marshmello_lyrics">
+
+    "Lately, I've been, I've been thinking\n
+I want you to be happier, I want you to be happier \n\n
+When the morning comes\n
+When we see what we've become\n
+In the cold light of day we're a flame in the wind\n
+Not the fire that we've begun\n
+Every argument, every word we can't take back\n
+'Cause with the all that has happened\n
+I think that we both know the way that this story ends\n\n
+Then only for a minute\n
+I want to change my mind\n
+'Cause this just don't feel right to me\n
+I wanna raise your spirits\n
+I want to see you smile but\n
+Know that means I'll have to leave\n\n
+Know that means I'll have to leave\n
+Lately, I've been, I've been thinking\n
+I want you to be happier, I want you to be happier\n\n
+When the evening falls\n
+And I'm left there with my thoughts\n
+And the image of you being with someone else\n
+Well, that's eating me up inside\n
+But we run our course, we pretend that we're okay\n
+Now if we jump together at least we can swim\n
+Far away from the wreck we made\n\n
+Then only for a minute\n
+I want to change my mind\n
+'Cause this just don't feel right to me\n
+I wanna raise your spirits\n
+I want to see you smile but\n
+Know that means I'll have to leave\n\n
+Know that means I'll have to leave\n
+Lately, I've been, I've been thinking\n
+I want you to be happier, I want you to be happier\n\n
+So I'll go, I'll go\n
+I will go, go, go\n
+So I'll go, I'll go\n
+I will go, go, go\n\n
+Lately, I've been, I've been thinking\n
+I want you to be happier, I want you to be happier\n
+Even though I might not like this\n
+I think that you'll be happier, I want you to be happier\n\n
+Then only for a minute (only for a minute)
+I want to change my mind\n
+'Cause this just don't feel right to me\n
+I wanna raise your spirits\n
+I want to see you smile but\n
+Know that means I'll have to leave\n\n
+Know that means I'll have to leave\n
+Lately, I've been, I've been thinking\n
+I want you to be happier, I want you to be happier\n\n
+So I'll go, I'll go\n
+I will go, go, go\n\n"
+
+</string>
+
+    <string name="fireflies_lyrics">
+
+        "You would not believe your eyes\n
+If ten million fireflies\n
+Lit up the world as I fell asleep\n
+'Cause they fill the open air\n
+And leave teardrops everywhere\n
+You'd think me rude but I would just stand and stare\n\n
+I'd like to make myself believe that planet earth turns slowly\n
+It's hard to say that I'd rather stay awake when I'm asleep\n
+'Cause everything is never as it seems\n\n
+'Cause I'd get a thousand hugs\n
+From ten thousand lightning bugs\n
+As they tried to teach me how to dance\n
+A foxtrot above my head\n
+A sock hop beneath my bed\n
+A disco ball is just hanging by a thread (thread, thread)\n\n
+I'd like to make myself believe that planet earth turns slowly\n
+It's hard to say that I'd rather stay awake when I'm asleep\n
+'Cause everything is never as it seems (when I fall asleep)\n\n
+Leave my door open just a crack\n
+Please take me away from here\n
+'Cause I feel like such an insomniac\n
+Please take me away from here\n
+Why do I tire of counting sheep?\n
+Please take me away from here\n
+When I'm far too tired to fall asleep\n\n
+To ten million fireflies\n
+I'm weird 'cause I hate goodbyes\n
+I got misty eyes as they said farewell (they said farewell)\n
+But I'll know where several are\n
+If my dreams get real bizarre\n
+'Cause I saved a few and I keep them in a jar (jar, jar, jar)\n\n
+I'd like to make myself believe that planet earth turns slowly\n
+It's hard to say that I'd rather stay awake when I'm asleep\n
+'Cause everything is never as it seems (when I fall asleep)\n\n
+I'd like to make myself believe that planet earth turns slowly\n
+It's hard to say that I'd rather stay awake when I'm asleep\n
+'Cause everything is never as it seems (when I fall asleep)\n\n"
+
+    </string>
+
+</resources>
+
+
+    <!--no use -->
+    <!--<style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">-->
+    <!--<item name="android:textSize">20sp</item>-->
+    <!--</style>-->
